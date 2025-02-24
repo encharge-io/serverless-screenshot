@@ -2,7 +2,7 @@
   "name": "serverless-screenshots",
   "version": "1.0.0",
   "dependencies": {
-    "aws-sdk": "^2.6.4",
+    "aws-sdk": "^2.1692.0",
     "aws-serverless-express": "^3.3.5",
     "dotenv": "^2.0.0",
     "express": "^4.16.4",
