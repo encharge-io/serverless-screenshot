@@ -19,7 +19,7 @@
     "eslint-plugin-jsx-a11y": "^2.2.2",
     "eslint-plugin-react": "^6.3.0",
     "serverless-add-api-key": "^2.1.2",
-    "serverless-offline": "^3.31.3"
+    "serverless-offline": "^12.0.3"
   },
   "scripts": {
     "deploy": "sls deploy -s production",
